@@ -1,3 +1,28 @@
+/*import React from 'react';
+import { Platform, StatusBar, StyleSheet, View } from 'react-native';
+import { AppLoading, Asset, Font, Icon } from 'expo';
+import AppNavigator from './navigation/AppNavigator';
+import Container from './screens/RootStack';
+
+
+export default class App extends React.Component {
+  render() {
+    return <Container />;
+  }
+}
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#fff',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+});*/
+
+
+
+
 import React from 'react';
 import { Platform, StatusBar, StyleSheet, View } from 'react-native';
 import { AppLoading, Asset, Font, Icon } from 'expo';
@@ -60,3 +85,6 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
   },
 });
+
+
+
